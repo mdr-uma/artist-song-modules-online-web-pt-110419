@@ -7,7 +7,7 @@ module Memorable
   def count
     all.count
   end
-end
+  end
 
   module InstanceMethods
     def initialize
